@@ -49,6 +49,6 @@ Conclusion -
 
 3.Use hyperparameters to tune  your model to get better values.
 
-Linkedin Video Post Link:-
+Linkedin Video Post Link:-https://www.linkedin.com/posts/kaushik-kathwal-372769290_machinelearning-datascience-dataengineering-activity-7183530932870475776-lHKW?utm_source=share&utm_medium=member_desktop
 
 
